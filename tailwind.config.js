@@ -1,8 +1,8 @@
 module.exports = {
   theme: {
     fontFamily: {
-      'sans': "'Jost', sans-serif",
-      'mono': "'Inconsolata', monospace"
-    }
-  }
-}
+      sans: "'Jost', sans-serif",
+      mono: "'Inconsolata', monospace",
+    },
+  },
+};

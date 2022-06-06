@@ -1,0 +1,7 @@
+# Prefer more beautiful HTML/Vue template formatting
+htmlWhitespaceSensitivity: ignore
+overrides:
+  - files: "**/*.md"
+    options:
+      # Wrap Markdown paragraphs
+      proseWrap: always

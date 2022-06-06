@@ -1,0 +1,8 @@
+"**/*.{js,ts,vue}":
+  - eslint --fix
+  - prettier --write
+"**/*.{css,html,vue}":
+  - stylelint --fix
+  - prettier --write
+"*":
+  - prettier --write --ignore-unknown
